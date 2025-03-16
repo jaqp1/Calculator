@@ -108,6 +108,9 @@ class MainActivity : AppCompatActivity() {
         bbackref.setOnClickListener{
             backSpace()
         }
+        bprzecref.setOnClickListener{
+            dodajWartosc(bprzecref);
+        }
 
 
 
