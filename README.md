@@ -1,6 +1,6 @@
 # Simple calculator
 ## 📱 Overview
-This is a simple and user-friendly calculator app designed with an intuitive interface for basic arithmetic operations. It includes functionality for addition, subtraction, multiplication, division, and more.
+This is a simple and user-friendly calculator app designed with an intuitive interface for basic arithmetic operations.
 
 <img src="https://github.com/user-attachments/assets/3a5723f0-3424-47f0-bcce-e755285fffe8" style="height:600px " />
 
