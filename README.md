@@ -9,7 +9,7 @@ This is a simple and user-friendly calculator app designed with an intuitive int
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/calculator-app.git
+git clone [https://github.com/yourusername/calculator-app.git](https://github.com/jaqp1/Calculator.git)
 
 # Navigate to the project directory
 cd calculator-app
